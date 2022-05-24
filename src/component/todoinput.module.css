@@ -1,0 +1,39 @@
+.outer_div{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    width: 25%;
+    margin: auto;
+    margin-top: 40px;
+   padding: 10px;
+   background-color: rgb(252, 252, 252);
+}
+
+.input {
+    border: 1px solid grey;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    width: 250px;
+    height:40px;
+    padding-left: 10px;
+    font-size: larger;
+    
+}
+.button{
+    cursor:pointer;
+    
+    height: 30px;
+    width: 60px;
+    margin: auto;
+     background-color: white;
+     border:none;
+    color:rgb(68, 66, 66);
+     border-radius: 2px;
+     font-size: 20px;
+     margin-left: 20px;
+     
+}
+.button:hover{
+font-weight: lighter;
+box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; 
+
+}

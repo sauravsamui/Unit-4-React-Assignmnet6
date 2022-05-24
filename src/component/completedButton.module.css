@@ -1,0 +1,9 @@
+.completed{
+    padding: 10px 25px;
+    border: none;
+    background-color: teal;
+    color: white;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 5px;
+}
